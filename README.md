@@ -68,7 +68,7 @@
     </a> 
 </p>
 
-[![Inès' GitHub stats](https://github-readme-stats.vercel.app/api?username=inesecx&theme=synthwave&show_icons=true&locale=en")](https://github.com/InesEcx) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=inesecx&theme=synthwave&show_icons=true&locale=en&layout=compact)](https://github.com/InesEcx)
+[![Inès' GitHub stats](https://github-readme-stats.vercel.app/api?username=inesecx&theme=synthwave&show_icons=true&hide_title=true")](https://github.com/InesEcx) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=inesecx&theme=synthwave&show_icons=true&locale=en&layout=compact)](https://github.com/InesEcx)
 | ----------- | ------------ |
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inesecx&theme=synthwave" alt="inesecx" /></p>
