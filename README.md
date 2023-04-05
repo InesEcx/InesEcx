@@ -74,3 +74,5 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=inesecx&theme=synthwave" alt="inesecx" />
 </p>
+
+[![Inès' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=inesecx)](https://github.com/InesEcx)
